@@ -1,7 +1,8 @@
 # Bing2022-2023
 
 Attached is an excel sheet containg Binghamton University Men's Baketball 2022-2023 season. (Bing2022-2023.xlsx)
-------------------------------------------------------------------------------------------------------------------------------------------------
+!All data comes from ESPN.com!
+----------------------------------------------------------------------------------------------------------------------------
 This sheet contains the variables:
 
 Date - Date of game played (mm/dd/year)
